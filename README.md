@@ -1,0 +1,2 @@
+# kernel
+Exynos4412
